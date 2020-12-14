@@ -17,7 +17,7 @@ describe("capitalizeFirst", () => {
         assert.strictEqual(capitalizeFirst('z'), 'Z');
     });
 
-    it("works with an emptyy string", () => {
+    it("works with an empty string", () => {
         assert.strictEqual(capitalizeFirst(''), '');
     });
 });
