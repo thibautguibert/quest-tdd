@@ -12,3 +12,5 @@ assert.strictEqual(capitalizeFirstLetters.length, 1);
 assert.strictEqual(capitalizeFirstLetters("I am learning TDD"), "I Am Learning TDD");
 assert.strictEqual(capitalizeFirstLetters("i"), "I");
 assert.strictEqual(capitalizeFirstLetters(""), "");
+
+capitalizeFirstLetters("i suck at sport, man...");
