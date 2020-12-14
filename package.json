@@ -1,0 +1,26 @@
+{
+  "name": "ks-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirst.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibautguibert/quest-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thibautguibert/quest-tdd/issues"
+  },
+  "homepage": "https://github.com/thibautguibert/quest-tdd#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
